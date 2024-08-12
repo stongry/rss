@@ -3,7 +3,7 @@ on:
     url:
       https://www.ithome.com/rss
       https://www.zhihu.com/rss
-      https://www.yystv.cn/rss/feed
+      https://v2ex.com/index.xml
 
 jobs:
   request:
