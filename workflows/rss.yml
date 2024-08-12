@@ -7,6 +7,9 @@ on:
       - https://plink.anyfeeder.com/36kr
       - https://plink.anyfeeder.com/guokr/scientific
       - http://www.v2ex.com/index.xml
+      - https://plink.anyfeeder.com/mydrivers
+      - https://droidyue.com/atom.xml
+      - https://rsshub.app/ithome/it
 jobs:
   request:
     name: Make a HTTP Request
