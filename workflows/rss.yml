@@ -1,19 +1,19 @@
 on:
   rss:
     url:
-      - https://www.zhihu.com/rss
-      - https://www.ruanyifeng.com/blog/atom.xml
-      - https://sspai.com/feed
-      - https://www.gcores.com/rss
-      - http://feed.appinn.com/
-      - https://36kr.com/feed
-      - https://www.zlovezl.cn/feeds/latest/
-      - https://www.ithome.com/rss/
-      - http://www.v2ex.com/index.xml
-      - https://www.yystv.cn/rss/feed
-      - https://rsshub.app/telegram/channel/res_share
-      - https://wanqu.co/feed/
-      - https://plink.anyfeeder.com/infzm/news
+      https://www.zhihu.com/rss
+      https://www.ruanyifeng.com/blog/atom.xml
+      https://sspai.com/feed
+      https://www.gcores.com/rss
+      http://feed.appinn.com/
+      https://36kr.com/feed
+      https://www.zlovezl.cn/feeds/latest/
+      https://www.ithome.com/rss/
+      http://www.v2ex.com/index.xml
+      https://www.yystv.cn/rss/feed
+      https://rsshub.app/telegram/channel/res_share
+      https://wanqu.co/feed/
+      https://plink.anyfeeder.com/infzm/news
 jobs:
   request:
     name: Make a HTTP Request
