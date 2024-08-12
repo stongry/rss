@@ -2,7 +2,6 @@ on:
   rss:
     url:
       https://www.zhihu.com/rss
-      https://www.ruanyifeng.com/blog/atom.xml
       https://sspai.com/feed
       https://www.gcores.com/rss
       http://feed.appinn.com/
