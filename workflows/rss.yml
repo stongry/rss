@@ -3,7 +3,7 @@ on:
     url:
       https://www.ithome.com/rss
       https://www.zhihu.com/rss
-      https://plink.anyfeeder.com/36kr
+      https://plink.anyfeeder.com/tmtpost
 jobs:
   request:
     name: Make a HTTP Request
