@@ -1,7 +1,8 @@
 on:
   rss:
     url:
-      https://www.zhihu.com/rss
+      https://www.ithome.com/rss
+
 jobs:
   request:
     name: Make a HTTP Request
