@@ -1,8 +1,9 @@
 on:
   rss:
     url:
-      https://www.ithome.com/rss
-      https://www.zhihu.com/rss
+      - https://www.zhihu.com/rss
+      - https://www.ithome.com/rss
+      - https://plink.anyfeeder.com/tmtpost
 jobs:
   request:
     name: Make a HTTP Request
