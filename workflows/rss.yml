@@ -2,9 +2,6 @@ on:
   rss:
     url:
       https://www.zhihu.com/rss
-      https://www.ithome.com/rss
-      https://www.yystv.cn/rss/feed
-      https://rsshub.app/telegram/channel/res_share
 jobs:
   request:
     name: Make a HTTP Request
