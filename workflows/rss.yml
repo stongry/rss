@@ -2,8 +2,7 @@ on:
   rss:
     url:
       https://www.zhihu.com/rss
-      https://www.ithome.com/rss/
-      http://www.v2ex.com/index.xml
+      https://www.ithome.com/rss
       https://www.yystv.cn/rss/feed
       https://rsshub.app/telegram/channel/res_share
 jobs:
