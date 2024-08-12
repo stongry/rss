@@ -2,7 +2,6 @@ on:
   rss:
     url:
       https://www.ithome.com/rss
-      https://www.zhihu.com/rss
       https://v2ex.com/index.xml
 
 jobs:
