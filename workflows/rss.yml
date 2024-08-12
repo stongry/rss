@@ -3,7 +3,7 @@ on:
     url:
       https://www.ithome.com/rss
       https://www.zhihu.com/rss
-      http://www.v2ex.com/index.xml
+      https://plink.anyfeeder.com/weixin/qnwzwx
 jobs:
   request:
     name: Make a HTTP Request
