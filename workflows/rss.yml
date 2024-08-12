@@ -4,6 +4,9 @@ on:
       - https://www.zhihu.com/rss
       - https://www.ithome.com/rss
       - https://plink.anyfeeder.com/tmtpost
+      - https://plink.anyfeeder.com/36kr
+      - https://plink.anyfeeder.com/guokr/scientific
+      - http://www.v2ex.com/index.xml
 jobs:
   request:
     name: Make a HTTP Request
